@@ -65,7 +65,8 @@
 	],
 	"permissions": [
 		"contextMenus",
-		"storage"
+		"storage",
+		"tabs"
 	],
 	"web_accessible_resources": [
 		{

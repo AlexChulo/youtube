@@ -1492,5 +1492,8 @@
     },
     "exact": {
         "message": "Exact date/time"
-    }
+    },
+    "refreshCategories": {
+	"message": "Refresh Categories"
+}
 }
